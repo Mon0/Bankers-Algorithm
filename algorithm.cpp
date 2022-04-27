@@ -22,7 +22,7 @@ int need[n][m];
 //Answer
 int ans[n];
 
-inf f[n] = {0,0,0,0,0};
+int f[n] = {0,0,0,0,0};
 
 int index = 0;
 
